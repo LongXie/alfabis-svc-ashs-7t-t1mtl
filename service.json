@@ -17,7 +17,7 @@
   "url": "https://sites.google.com/view/ashs-dox/mri-data/ashs-pmc-t1-atlas-requirements?authuser=0",
   "tags": [
     {
-      "name": "MP2RAGER-T1",
+      "name": "MP2RAGE-T1",
       "type": "MainImage",
       "hint": "The final MP2RAGE T1-weighted MRI scan of the whole brain.",
       "required": true
